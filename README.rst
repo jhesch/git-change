@@ -2,6 +2,14 @@
  git-change
 ============
 
+  ⚠️ Note about commit history: `Jacob Hesch`_ is the original `git-change`
+  author. Commits by the author were made outside of GitHub with the email
+  address `jacob@nextdoor.com`. After the author left Nextdoor, another 
+  employee inherited the same email address, resulting in commits being
+  misattributed to that employee on GitHub.
+
+`Open source announcement`_
+
 Disclaimer: `git-change` is no longer in development. Use it at your own risk.
 ------------
 
@@ -324,3 +332,5 @@ The folks at OpenStack_ maintain a similar tool called `git-review`_.
 .. _Gerrit repository: https://review.opensource.nextdoor.com/
 .. _Gerrit Uploading Changes:
    https://review.opensource.nextdoor.com/Documentation/user-upload.html
+.. _Jacob Hesch: https://github.com/jhesch
+.. _Open source announcement: https://engblog.nextdoor.com/introducing-git-change-94acfbc9c07e
